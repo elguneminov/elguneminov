@@ -15,19 +15,19 @@
       <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/facebook.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/elgun__eminov/"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/instagram.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/instagram.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="linkedin.com/in/elgun-eminov-5b39181b7/"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/linkedin.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/linkedin.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://twitter.com/elgunofficial"> 
-      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/twitter.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/twitter.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://t.me/ElgunEminov"> 
-      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/telegram.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/telegram.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="mailto: elguneminov1999@gmail.com"> 
-      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/gmail.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/gmail.svg">
     </a>
   </p>
   
