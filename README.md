@@ -11,7 +11,7 @@
   <!-- How to reach me section -->
   <h2> 📫 How to reach me : </h2>
   <p align="center">
-    <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com/elguneminov/"> 
+    <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com/profile.php?id=100008153256246"> 
       <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/facebook.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/elgun__eminov/"> 
