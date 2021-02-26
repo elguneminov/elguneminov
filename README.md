@@ -11,7 +11,7 @@
   <!-- How to reach me section -->
   <h2> 📫 How to reach me : </h2>
   <p align="center">
-    <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com/hamidsultanzadeh/"> 
+    <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com//"> 
       <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/facebook.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/hamidsultanzadeh/"> 
