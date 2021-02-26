@@ -3,7 +3,7 @@
 <div> 
   <!-- My Blog section -->
   <h2> 📝 My blog </h2> 
-  <h4> <a style="text-decoration: none;" href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
+  <h4> <a style="text-decoration: none;" href="https://elguneminov.medium.com/" target="_blank">Articles and some problems about programming</a> </h4>
   
   <!-- Resume section -->
   <h2> <a href="https://resume.io/r/dTC4sLjTH">👤 Resume</a> </h2>
