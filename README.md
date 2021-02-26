@@ -12,7 +12,7 @@
   <h2> 📫 How to reach me : </h2>
   <p align="center">
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com/elguneminov/"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/facebook.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/main/files/facebook.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/elgun__eminov/"> 
       <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/instagram.svg">
