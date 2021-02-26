@@ -26,8 +26,8 @@
     <a style="text-decoration: none; padding-right: 10px;" href="https://t.me/hamidsultanzadeh"> 
       <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/telegram.svg">
     </a>
-    <a style="text-decoration: none; padding-right: 10px;" href="mailto: hamid.sultanzadeh@gmail.com"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/gmail.svg">
+    <a style="text-decoration: none; padding-right: 10px;" href="mailto: elguneminov@inbox.ru"> 
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/master/files/gmail.svg">
     </a>
   </p>
   
