@@ -12,22 +12,22 @@
   <h2> 📫 How to reach me : </h2>
   <p align="center">
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com//"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/facebook.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/facebook.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/hamidsultanzadeh/"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/instagram.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/instagram.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.linkedin.com/in/hamidsultanzadeh/"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/linkedin.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/linkedin.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://twitter.com/hamiddev"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/twitter.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/twitter.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://t.me/hamidsultanzadeh"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/telegram.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/telegram.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="mailto: elguneminov@inbox.ru"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/master/files/gmail.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/gmail.svg">
     </a>
   </p>
   
