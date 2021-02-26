@@ -15,10 +15,10 @@
       <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/facebook.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/elgun__eminov/"> 
-      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/blob/master/files/instagram.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/instagram.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="linkedin.com/in/elgun-eminov-5b39181b7/"> 
-      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/linkedin.svg">
+      <img width="50" height="50" src="https://github.com/elguneminov/elguneminov/tree/main/files/linkedin.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://twitter.com/elgunofficial"> 
       <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/twitter.svg">
