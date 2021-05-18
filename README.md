@@ -6,7 +6,7 @@
   <h4> <a style="text-decoration: none;" href="https://elguneminov.medium.com/" >Articles and some problems about programming</a> </h4>
   
   <!-- Resume section -->
-  <h2> <a href="https://flowcv.io/dfacc822-a120-4851-8c93-90791c499a73">👤 Resume</a> </h2>
+  <h2> <a href="https://github.com/elguneminov/resume/blob/main/Elgun_Eminov_Resume.pdf">👤 Resume</a> </h2>
   
   <!-- How to reach me section -->
   <h2> 📫 How to reach me : </h2>
