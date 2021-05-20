@@ -1,6 +1,5 @@
 # Hi I'm Elgun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">
 
-- 📫 How to contact me: [Instagram](https://www.instagram.com/elgun__eminov/)
 <div> 
   <!-- My Blog section -->
   <h2> 📝 My blog </h2> 
